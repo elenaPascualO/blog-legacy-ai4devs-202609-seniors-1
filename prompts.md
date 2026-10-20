@@ -299,4 +299,26 @@ la auditoria no lo ordena pero ete ejercicio no es solo hacer la auditoria, sino
 crea la rama auditoria-epo y abre la PR
 ```
 
+**Qué salió:** creó la rama, commiteó los archivos de entrega y la subió al fork, pero el PR contra `s6/start` quedó a medias: `gh` estaba autenticado con otra cuenta y el reintento con la de elenaPascualO no llegó a confirmarse. (8 herramientas)
+
+## Prompt 24
+
+**Modelo:** Opus 5.5 Medium
+**Herramienta:** Claude Code
+
+```
+puedes comitear y pushear tb esta rama y subirla a mi fork?
+```
+
+**Qué salió:**
+
+## Prompt 25
+
+**Modelo:** Opus 5.5 Medium
+**Herramienta:** Claude Code
+
+```
+perdon!!
+```
+
 **Qué salió:**
